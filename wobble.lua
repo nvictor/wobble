@@ -45,7 +45,7 @@ function TIC()
   x=(i*s-t)%(w+(4*s))
   y=60+math.sin(i+t/9)*10
   print(c,x,y,12,true,3)
-	end
+ end
 
  t=t+1
 
